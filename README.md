@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 
 ## 🛠 &nbsp;Tech Stack
-<hr/>
-<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -44,11 +42,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br/>
-
 ## ⚙️ &nbsp;GitHub Analytics
-<hr/>
-<br>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gabrielcancio&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
