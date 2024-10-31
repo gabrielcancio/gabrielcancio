@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- 👨‍💻 Junior Back-end Developer
+- 👨‍💻 Mid Back-end Developer
 - :books: I'm focusing on Typescript and Node.js
 - :telescope: I have interest on Spring Boot/Java, Golang, Microservices Architecture, Cloud and Devops.
 
